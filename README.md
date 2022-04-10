@@ -28,9 +28,9 @@ WHEN I test API POST and DELETE routes in Insomnia
 THEN I am able to successfully create and delete reactions to thoughts and add and remove friends to a user’s friend list
 
 ## Installation 
-To run this application, the users need to download node modules as well as mysql2, sequalize and express.js. 
+To run this application, the users need to download npm packages, mongodb, mongoose, express.js. 
 ## Usage 
-If a user clones the repo and install the necessary modules, the user only needs to do "npm start" on the command line. Then the app will be ready with the json data. The users can get associated data relationship established by sequalize tables association. All the necessary data are seeded; so optimum use of the app depends on the seeded data.
+If a user clones the repo and install the necessary modules, the user only needs to do "npm start" on the command line. Then the app will be ready with the json data. The users can get associated data relationship established by mongoose collections association. 
 
 View thw video for get routes: [Screencastify]
 View thw video for get routes for one category, one tag and one product: [Screencastify]
