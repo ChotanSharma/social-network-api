@@ -1,6 +1,6 @@
 const router = require('express').Router();
 
-// Importing controller functions
+// Importing user-                                                                                                                                          controller functions
 const {
     getAllUsers,
     getUserById,

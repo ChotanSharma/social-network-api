@@ -1,6 +1,6 @@
 const router = require('express').Router();
 
-// Importing functions from thought controller
+// Importing functions from thought-controller
 const { 
     getAllThoughts, 
     getThoughtById, 
@@ -25,11 +25,11 @@ router.route('/:id')
 router.route('/:userId')    
       .post(createThought);
 
-// /api for creating reactions
+// api for creating reactions
 router.route('/:thoughtId/reactions')
       .post(addReaction);
 
-// /api for deleting a reaction by user and reaction id
+// api for deleting a reaction by user and reaction id
 router.route('/:thoughtId/reactions/:reactionId')
       .delete(deleteReaction);
 

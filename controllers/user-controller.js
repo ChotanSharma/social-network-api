@@ -16,7 +16,7 @@ const userController = {
   getUserById({ params }, res) {
     User.findOne({ _id: params.id })
       .then(dbUserData => {
-        // If no pizza is found, send 404
+        // If no user is found, send 404
         if (!dbUserData) {
           res.status(404).json({ message: 'No user found with this id!' });
           return;
@@ -105,4 +105,5 @@ const userController = {
 
 };
 
+// exporting userController
 module.exports = userController;
