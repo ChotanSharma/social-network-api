@@ -32,10 +32,14 @@ To run this application, the users need to download npm packages, mongodb, mongo
 ## Usage 
 If a user clones the repo and install the necessary modules, the user only needs to do "npm start" on the command line. Then the app will be ready with the json data. The users can get associated data relationship established by mongoose collections association. 
 
-View thw video for get routes: [Screencastify]
-View thw video for get routes for one category, one tag and one product: [Screencastify]
+View the video for get users and thoughts routes.: [Screencastify](https://drive.google.com/file/d/13mM1N_LJ-2Jo_X_PSMo6va8HZJ1ZNQ9B/view)
 
-View thw video for delete, post and put of categoriesRoutes: [Screencastify]
+
+View the video for get routes for one user and one thought: [Screencastify](https://drive.google.com/file/d/1vl-ah2PcDVqKkA6cPO2JqlaiaWqBbXx6/view)
+
+View the video for CRUD functionalities of users: [Screencastify](https://drive.google.com/file/d/1nZrPalsueAYhAReY64fuyo5MMfOe53xL/view)
+
+View the video for CRUD functionalities of thoughts: [Screencastify](https://drive.google.com/file/d/1tshymNsQFB5eQSSVbAUGpxdxJ3-WjiOM/view)
 
 ## License 
 This project is license under MIT
