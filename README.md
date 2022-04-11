@@ -43,7 +43,7 @@ View the video for CRUD functionalities of thoughts: [Screencastify](https://dri
 
 View the video for add friend and delete: [Screencastify](https://drive.google.com/file/d/1VLN8NS_OCLV9v5zzF83rP31dWZblc-2B/view)
 
-View the video for add friend and delete: [Screencastify](https://drive.google.com/file/d/1mMn_AXcH3mN49pxMFb20KYSryujV_k3E/view)
+View the video for creating reactions and deleting: [Screencastify](https://drive.google.com/file/d/1mMn_AXcH3mN49pxMFb20KYSryujV_k3E/view)
 
 ## License 
 This project is license under MIT
